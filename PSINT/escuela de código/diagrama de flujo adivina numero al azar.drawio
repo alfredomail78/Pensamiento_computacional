@@ -1,0 +1,75 @@
+<mxfile host="app.diagrams.net" modified="2023-05-23T17:00:46.808Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="vn6aRY8cY5KMofHVEx0h" version="21.3.3" type="device">
+  <diagram name="Página-1" id="rh2XFK9w2HBfv4vodUCe">
+    <mxGraphModel dx="1434" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="xPLhMg41Ty27EYnCaDW7-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xPLhMg41Ty27EYnCaDW7-1" target="xPLhMg41Ty27EYnCaDW7-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xPLhMg41Ty27EYnCaDW7-1" value="Inicio" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="40" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xPLhMg41Ty27EYnCaDW7-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xPLhMg41Ty27EYnCaDW7-2" target="xPLhMg41Ty27EYnCaDW7-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xPLhMg41Ty27EYnCaDW7-2" value="Declarar: &lt;br&gt;numero_usuario&lt;br&gt;numero_secreto&lt;br&gt;nombre&lt;br&gt;resultado" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="180" width="320" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="xPLhMg41Ty27EYnCaDW7-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xPLhMg41Ty27EYnCaDW7-5" target="xPLhMg41Ty27EYnCaDW7-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xPLhMg41Ty27EYnCaDW7-5" value="Asignar:&amp;nbsp;&lt;br&gt;numero_secreto = random (1,100)&lt;br&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="240" y="365" width="300" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xPLhMg41Ty27EYnCaDW7-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xPLhMg41Ty27EYnCaDW7-7" target="xPLhMg41Ty27EYnCaDW7-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xPLhMg41Ty27EYnCaDW7-7" value="Mostrar o Escribir: &quot;*&quot; * 5, &quot;Bienvenido al juego de adivinar el número&quot;, &quot;*&quot;, +5&lt;br&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="480" width="310" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xPLhMg41Ty27EYnCaDW7-9" value="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="340" y="620" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xPLhMg41Ty27EYnCaDW7-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xPLhMg41Ty27EYnCaDW7-11" target="xPLhMg41Ty27EYnCaDW7-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xPLhMg41Ty27EYnCaDW7-11" value="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="790" y="40" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xPLhMg41Ty27EYnCaDW7-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xPLhMg41Ty27EYnCaDW7-12" target="xPLhMg41Ty27EYnCaDW7-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xPLhMg41Ty27EYnCaDW7-12" value="Mostrar o Escribir: &quot;Escribe tu nombre&quot;&lt;br&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="715" y="200" width="230" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xPLhMg41Ty27EYnCaDW7-14" value="2" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="790" y="360" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xPLhMg41Ty27EYnCaDW7-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xPLhMg41Ty27EYnCaDW7-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1201" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xPLhMg41Ty27EYnCaDW7-16" value="2" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="1161" y="40" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xPLhMg41Ty27EYnCaDW7-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xPLhMg41Ty27EYnCaDW7-20" target="xPLhMg41Ty27EYnCaDW7-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xPLhMg41Ty27EYnCaDW7-20" value="Mostrar o escribir: nombre, &quot; Adivina el número secreto&quot;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="1140" y="220" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xPLhMg41Ty27EYnCaDW7-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xPLhMg41Ty27EYnCaDW7-21" target="xPLhMg41Ty27EYnCaDW7-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xPLhMg41Ty27EYnCaDW7-21" value="Asignar o leer: numero_usuario&lt;br&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="1080" y="380" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xPLhMg41Ty27EYnCaDW7-23" value="Asignar: resultado = numero_secreto == numero_usuario&lt;br&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="1050" y="510" width="300" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
