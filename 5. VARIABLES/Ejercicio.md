@@ -59,7 +59,14 @@ FinAlgoritmo
 
 Realiza un algoritmo para un programa que solicite al usuario su nombre y le salude usando ese nombre
 
-      TU ALGORITMO AQUI  
+     Algoritmo nombre_y_saludo
+	definir nombre Como Caracter
+	escribir "por favor ingresa tu nombre" 
+	leer nombre
+	escribir "Buen día ", nombre, " ¿cómo te encuentras? "
+	
+FinAlgoritmo
+ 
 
 ## EJERCICIO 3
 
