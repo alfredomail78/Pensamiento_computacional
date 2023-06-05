@@ -27,7 +27,32 @@ tienes?
 
 Realiza un algoritmo que calcule el promedio de un alumno el cual tiene cuatro calificaciones, una por periodo, de cada materia.
 
-      TU ALGORITMO AQUI
+  Algoritmo promedio_de_calificaciones
+	definir nombre como caracter
+	definir calificacion1 Como real
+	definir calificacion2 Como real
+	definir calificacion3 Como real
+	definir calificacion4 Como real
+	definir promedio como real
+	
+	escribir "Ingresa tu nombre"
+	leer nombre 
+	escribir "Ingresa la primera calificacion" 
+	leer calificacion1
+	escribir "Ingresa la segunda calificación"
+	leer calificacion2
+	escribir "Ingresa la tercera calificación"
+	leer calificacion3
+	escribir "Ingresa la cuarta calificacion"
+	leer calificacion4
+	
+	promedio<-(calificacion1+ calificacion2 + calificacion3 + calificacion4)/4
+	
+	escribir nombre, " tu promedio de calificaciones es ", promedio
+	
+	
+FinAlgoritmo
+
       
       
 ## EJERCICIO 3
