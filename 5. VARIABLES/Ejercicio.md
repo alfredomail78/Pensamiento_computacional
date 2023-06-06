@@ -72,6 +72,17 @@ FinAlgoritmo
 
 Realiza un algoritmo para  un programa que solicite al usuario ingresar la cantidad de kilómetros recorridos por una motocicleta y la cantidad de litros de combustible que consumió durante ese recorrido. El consumo por kilómetro es de 20.8
 
-      TU ALGORITMO AQUI  
+    Algoritmo consumo_de_combustible
+	definir nombre Como Caracter
+	definir kilometrosrecorridos Como Real
+	definir consumo como real
+	definir rendimiento como real
+	escribir "Buen día, ingresa tu nombre"
+	leer nombre
+	escribir "Buenos días ", nombre, " ¿cuántos kilómetros has recorrido?"
+	leer kilometrosrecorridos 
+	rendimiento<-28 * kilometrosrecorridos
+	escribir "el consumo de combustible que has tenido ha sido de ", rendimiento
+FinAlgoritmo
 
 Ahora llevalos a PSINT
